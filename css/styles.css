@@ -160,8 +160,8 @@ a{
 }
 
 .social-nav .fa-github {
+    margin-left: 0px;
     margin-top: 5px;
-    margin-left: 1px;
 }
 
 .social-nav .fa-linkedin {
@@ -170,7 +170,7 @@ a{
 }
 
 .social-nav .fa-envelope {
-    margin-left: 1px;
+    margin-left: 0px;
     margin-top: 4px;
 }
 
